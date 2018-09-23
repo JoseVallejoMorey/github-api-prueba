@@ -43,9 +43,6 @@ class Controller{
         return json_encode($response);
     }
 
-
-
-
     public function getByNumber($number){
         try{
 
